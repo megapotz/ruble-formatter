@@ -1,0 +1,22 @@
+{
+	"name": "@megapotz/ruble-formatter",
+	"version": "0.0.1",
+	"description": "Сумма в рублях прописью",
+	"keywords": [
+		"ruble",
+		"numeral",
+		"formatter",
+		"summa",
+		"rouble"
+	],
+	"authors": [
+		"Mike Shestakov <mike.shestakov@gmail.com>",
+	],
+	"homepage": "https://github.com/megapotz/ruble-formatter",
+	"main": "./lib/ruble",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/megapotz/ruble-formatter"
+	},
+	"license": "MIT"
+}
