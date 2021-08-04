@@ -1,5 +1,5 @@
 {
-	"name": "@megapotz/ruble-formatter",
+	"name": "@mikeshestakov/ruble-formatter",
 	"version": "0.0.1",
 	"description": "Сумма в рублях прописью",
 	"keywords": [
@@ -10,7 +10,7 @@
 		"rouble"
 	],
 	"authors": [
-		"Mike Shestakov <mike.shestakov@gmail.com>",
+		"Mike Shestakov <mike.shestakov@gmail.com>"
 	],
 	"homepage": "https://github.com/megapotz/ruble-formatter",
 	"main": "./lib/ruble",
