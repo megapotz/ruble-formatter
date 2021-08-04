@@ -1,6 +1,6 @@
 {
 	"name": "@mikeshestakov/ruble-formatter",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"description": "Сумма в рублях прописью",
 	"keywords": [
 		"ruble",
